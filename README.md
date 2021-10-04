@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tigeroster
+- 👋 Hi, I’m @tigeroster Lochana Dissanayake
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Apple and Google
