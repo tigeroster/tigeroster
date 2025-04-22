@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tigeroster Lochana Dissanayake
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Apple and Google
-- 📫 How to reach me, lochana8723@gmail.com
+Project Management Professional
 
 <!---
 tigeroster/tigeroster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
